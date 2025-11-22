@@ -1,0 +1,11 @@
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\bin\Debug\net8.0\Project'sClasses.deps.json
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\bin\Debug\net8.0\Project'sClasses.dll
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\bin\Debug\net8.0\Project'sClasses.pdb
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.dll
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\refint\Project'sClasses.dll
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\Project'sClasses.pdb
+C:\Users\Arsen\source\repos\Proj2.1\Project'sClasses\obj\Debug\net8.0\ref\Project'sClasses.dll
